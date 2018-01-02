@@ -6,7 +6,7 @@
     </TN>
     <DCT>
       <En>
-        <S N="Key">PSGallery</S>
+        <S N="Key">PSGaller</S>
         <Obj N="Value" RefId="1">
           <TN RefId="1">
             <T>Microsoft.PowerShell.Commands.PSRepository</T>
